@@ -1,0 +1,1 @@
+[30-Dec-2016 17:16:04 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dgstonescom/public_html/wp-includes/rss-functions.php on line 8
